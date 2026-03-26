@@ -1,0 +1,5 @@
+{
+  "name": "SYS.SNAKE_PROTOCOL",
+  "description": "A retro-futurist glitch-art interface combining a classic Snake game with a cryptic audio subsystem.",
+  "requestFramePermissions": []
+}
